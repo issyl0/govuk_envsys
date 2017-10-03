@@ -8,3 +8,7 @@ gem 'rspec-puppet', '~> 2.6.9'
 gem 'puppetlabs_spec_helper', '~> 2.3.2'
 gem 'puppet-syntax', '~> 2.4.1'
 
+gem 'test-kitchen'
+gem 'kitchen-docker'
+gem 'kitchen-inspec'
+gem 'kitchen-puppet'
